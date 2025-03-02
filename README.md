@@ -24,7 +24,7 @@ The application demo video is available [here](demo_video.mp4)
 
 ## More on Spitch 💫
 This project was built using the [Spitch](https://spi-tch.com) transcription feature. Spitch is a language company focused on developing small language models for African languages, and as at now, they have currently created models for Yoruba, Igbo, Hausa, and English with more languages coming soon.
-In addition to the speech transcription feature, [Spitch](https://spi-tch.com) has also developed three other revolutionalizing features;
+In addition to the speech transcription feature, [Spitch](https://spi-tch.com) has also developed three other amazing features;
 1. **Machine Translation**: To convert text in one language to text in another language.
 2. **Speech Generation (Text-to-Speech)**: To convert text in one language to audio in the same language.
 3. **Tone Marking (Diacritics)**: To format text in one language with the proper intonations.
